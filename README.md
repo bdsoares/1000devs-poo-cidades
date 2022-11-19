@@ -49,4 +49,4 @@ Necessário importar o JDBC Driver do PostgreSQL no projeto.
 
 [Download | pgJDBC](https://jdbc.postgresql.org/download/)
 
-Utilizada versão `42.5.0`
+Utilizada versão [`42.5.0`](https://jdbc.postgresql.org/download/postgresql-42.5.0.jar)
