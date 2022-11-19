@@ -1,6 +1,6 @@
 CREATE DATABASE mesttra
 
-CREATE TABLE cidade (
+CREATE TABLE cidades (
 	ddd INT PRIMARY KEY,
 	nome VARCHAR(50),
 	nro_habitantes INT,
