@@ -41,3 +41,12 @@ Para executar este projeto, você precisará adicionar as seguintes variáveis �
 `POSTGRES_USER`
 
 `POSTGRES_PASS`
+
+
+## JDBC Driver
+
+Necessário importar o JDBC Driver do PostgreSQL no projeto.
+
+[Download | pgJDBC](https://jdbc.postgresql.org/download/)
+
+Utilizada versão `42.5.0`
